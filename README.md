@@ -106,8 +106,8 @@ house-price-prediction/
 │   └── feature_importance.png
 
 ├── README.md
-
-└── requirements.txt
+├── requirements.txt
+└── .gitignore
 ```
 
 ## Dashboard
