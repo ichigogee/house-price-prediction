@@ -1,0 +1,4 @@
+Model,MAE,RMSE,R2 Score
+LinearRegression,166236.18,250418.64,0.595
+Random Forest (Default),174217.04,289938.95,0.457
+Random Forest (Tuned),171590.88,276982.91,0.504
